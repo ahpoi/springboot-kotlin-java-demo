@@ -8,7 +8,6 @@ import java.util.UUID;
 
 public class CallingKotlinFromJava {
 
-
     /**
      * Calling a companion object method
      */
